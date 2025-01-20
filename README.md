@@ -26,9 +26,7 @@ npm run dev
 ### Instruction for frontend
 1. If you already clone this repo, navigate your directory to frontend
 2. Run npm install
-3. Change the url endpoint
-4. Run npm run dev
-5. The instruction as stated below
+3. Run npm run dev
 
 ```
 cd .\frontend
