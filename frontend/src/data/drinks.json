@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "image":"https://img.freepik.com/premium-photo/strawberry-juice-with-citrus-twist_1234738-219779.jpg",
+        "caption":"2 cups of strawberry juice",
+        "title":"Strawberry Juice",
+        "price":"12"
+    },
+    {
+        "id":2,
+        "image":"https://sugargeekshow.com/wp-content/uploads/2021/03/oreo_icecream_cake_recipe_featured.jpg",
+        "caption":"Chocolate cake with ice-cream",
+        "title":"Chocolate Cake",
+        "price":"15"
+    },
+    {
+        "id":3,
+        "image":"https://www.alphafoodie.com/wp-content/uploads/2020/11/Orange-Juice-1-of-1.jpeg",
+        "caption":"2 cups of orange juices",
+        "title":"Orange juices",
+        "price":"8"
+    },
+    {
+        "id":4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5bqC7IA8JdjL19Ko8baj61wNE8Qlab3GWw&s",
+        "caption":"One cup of coffee",
+        "title":"Coffee",
+        "price":"5"
+    }
+]
